@@ -5,7 +5,7 @@ return {
     ["Dino112359"] = Color3.fromRGB(138, 0, 0),
     ["HENNExDINO"] = Color3.fromRGB(138, 0, 0),
     ["erzzg111111"] = Color3.fromRGB(255, 0, 0),
-    ["4751887553"] = Color3.fromRGB(183, 0, 255)
+    ["sjsni20"] = Color3.fromRGB(183, 0, 255)
     ["Emeraldykatri"] = Color3.fromRGB(255, 0, 0),
     ["Kalemm_555"] = Color3.fromRGB(255, 0, 231),
     ["Josue7u7_C"] = Color3.fromRGB(0, 0, 255),
