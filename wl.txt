@@ -1,1 +1,1 @@
-HENNExDINO
+local hi = window:AddTab("Hi")
