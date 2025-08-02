@@ -1,1 +1,1 @@
-local hi = window:AddTab("Hi")
+window:AddTab("Hi")
